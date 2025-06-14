@@ -1,0 +1,13 @@
+../Core/Src/main.c:66:9:decToBcd	24	static
+../Core/Src/main.c:71:5:bcdToDec	16	static
+../Core/Src/main.c:88:6:Set_Time	48	static
+../Core/Src/main.c:101:6:Get_Time	32	static
+../Core/Src/main.c:118:6:gws	8	static
+../Core/Src/main.c:132:6:am8	8	static
+../Core/Src/main.c:171:6:pm2	8	static
+../Core/Src/main.c:240:6:pm8	8	static
+../Core/Src/main.c:357:5:main	32	static
+../Core/Src/main.c:522:6:SystemClock_Config	88	static
+../Core/Src/main.c:568:13:MX_I2C1_Init	8	static
+../Core/Src/main.c:616:13:MX_GPIO_Init	56	static
+../Core/Src/main.c:685:6:Error_Handler	8	static,ignoring_inline_asm
